@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.yang.config.UserConfig",
+      "sourceType": "com.yang.config.UserConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.a-b-c",
+      "type": "java.lang.String",
+      "sourceType": "com.yang.config.UserConfig"
+    },
+    {
+      "name": "user.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.yang.config.UserConfig"
+    }
+  ],
+  "hints": []
+}
